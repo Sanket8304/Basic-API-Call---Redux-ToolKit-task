@@ -67,7 +67,6 @@ const Home = () => {
     },
     [imageList]
   );
-  console.log(imageList);
 
   return (
     <View style={styles.container}>
